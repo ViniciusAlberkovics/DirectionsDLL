@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/DirectionDLL/DesignTimeBuild
+/.vs/DirectionDLL/v15/Server/sqlite3
+/DirectionDLL/obj
+/DirectionTest
+/DirectionDLL/bin/Debug/netstandard2.0
+/packages/Newtonsoft.Json.11.0.2
+/DirectionDLL/bin/Release/netstandard2.0
